@@ -1,0 +1,31 @@
+span{
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+#second_h2 {
+  color: antiquewhite;
+}
+
+.group1{
+  color: #ffd666;
+}
+
+.group2{
+  color: antiquewhite;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+h1{
+  font-size: 3rem;
+}
